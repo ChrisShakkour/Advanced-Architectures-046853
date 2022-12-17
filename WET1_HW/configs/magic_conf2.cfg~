@@ -1,0 +1,13 @@
+[general]
+run_name = "MAGIC_16x16_SRAMS128KB_OS"
+
+[architecture_presets]
+ArrayHeight:    32
+ArrayWidth:     512
+IfmapSramSz:    128
+FilterSramSz:   128
+OfmapSramSz:    128
+IfmapOffset:    0
+FilterOffset:   10000000
+OfmapOffset:    20000000
+Dataflow:       ws

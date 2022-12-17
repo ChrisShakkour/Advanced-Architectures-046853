@@ -1,0 +1,228 @@
+Using Architechture from  ./WET1_HW/configs/magic_conf.cfg
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	16x16
+SRAM IFMAP: 	4096
+SRAM Filter: 	4096
+SRAM OFMAP: 	4096
+CSV file path: 	WET1_HW/topologies/magic_topo.csv
+Dataflow: 	Output Stationary
+====================================================
+
+Commencing run for Conv1
+Generating traces and bw numbers
+Average utilization : 	99.85457950047952 %
+Cycles for compute  : 	74032 cycles
+DRAM IFMAP Read BW  : 	1.1713147410358566 Bytes/cycle
+DRAM Filter Read BW : 	0.01195219123505976 Bytes/cycle
+DRAM OFMAP Write BW : 	3.0679780876494025 Bytes/cycle
+
+Commencing run for Conv2
+Generating traces and bw numbers
+Average utilization : 	6.246151498065316 %
+Cycles for compute  : 	380425 cycles
+DRAM IFMAP Read BW  : 	0.9517586080985598 Bytes/cycle
+DRAM Filter Read BW : 	0.0012139778164522448 Bytes/cycle
+DRAM OFMAP Write BW : 	0.02817045007279125 Bytes/cycle
+
+Commencing run for Conv3
+Generating traces and bw numbers
+Average utilization : 	99.97976177428836 %
+Cycles for compute  : 	100367 cycles
+DRAM IFMAP Read BW  : 	1.8183004167421635 Bytes/cycle
+DRAM Filter Read BW : 	0.009277042942562059 Bytes/cycle
+DRAM OFMAP Write BW : 	3.636600833484327 Bytes/cycle
+
+Commencing run for Conv4
+Generating traces and bw numbers
+Average utilization : 	6.2191611842105265 %
+Cycles for compute  : 	194561 cycles
+DRAM IFMAP Read BW  : 	2.9177924367151866 Bytes/cycle
+DRAM Filter Read BW : 	0.003721674026422432 Bytes/cycle
+DRAM OFMAP Write BW : 	0.010994203056570171 Bytes/cycle
+
+Commencing run for Conv5
+Generating traces and bw numbers
+Average utilization : 	99.97976177428836 %
+Cycles for compute  : 	100367 cycles
+DRAM IFMAP Read BW  : 	1.2505779212282462 Bytes/cycle
+DRAM Filter Read BW : 	0.05104399678482637 Bytes/cycle
+DRAM OFMAP Write BW : 	2.5011558424564924 Bytes/cycle
+
+Commencing run for Conv6
+Generating traces and bw numbers
+Average utilization : 	6.234286396952749 %
+Cycles for compute  : 	360457 cycles
+DRAM IFMAP Read BW  : 	1.0013220979949011 Bytes/cycle
+DRAM Filter Read BW : 	0.0051087862142597 Bytes/cycle
+DRAM OFMAP Write BW : 	0.007007119372976317 Bytes/cycle
+
+Commencing run for Conv7
+Generating traces and bw numbers
+Average utilization : 	99.98988013092931 %
+Cycles for compute  : 	200719 cycles
+DRAM IFMAP Read BW  : 	1.4289508064831922 Bytes/cycle
+DRAM Filter Read BW : 	0.05832452271359968 Bytes/cycle
+DRAM OFMAP Write BW : 	1.4289508064831922 Bytes/cycle
+
+Commencing run for Conv8
+Generating traces and bw numbers
+Average utilization : 	6.18988215908126 %
+Cycles for compute  : 	94217 cycles
+DRAM IFMAP Read BW  : 	2.9860001487763146 Bytes/cycle
+DRAM Filter Read BW : 	0.015234694636613852 Bytes/cycle
+DRAM OFMAP Write BW : 	0.005422896674849364 Bytes/cycle
+
+Commencing run for Conv9
+Generating traces and bw numbers
+Average utilization : 	99.97976177428836 %
+Cycles for compute  : 	100367 cycles
+DRAM IFMAP Read BW  : 	0.7703740097033717 Bytes/cycle
+DRAM Filter Read BW : 	0.2515506970459989 Bytes/cycle
+DRAM OFMAP Write BW : 	1.5407480194067433 Bytes/cycle
+
+Commencing run for Conv10
+Generating traces and bw numbers
+Average utilization : 	6.103515625 %
+Cycles for compute  : 	163841 cycles
+DRAM IFMAP Read BW  : 	1.0909367628034397 Bytes/cycle
+DRAM Filter Read BW : 	0.022264015567417136 Bytes/cycle
+DRAM OFMAP Write BW : 	0.003397219172274343 Bytes/cycle
+
+Commencing run for Conv11
+Generating traces and bw numbers
+Average utilization : 	99.98988013092931 %
+Cycles for compute  : 	200719 cycles
+DRAM IFMAP Read BW  : 	0.8340044296512377 Bytes/cycle
+DRAM Filter Read BW : 	0.27232797702897554 Bytes/cycle
+DRAM OFMAP Write BW : 	0.8340044296512377 Bytes/cycle
+
+Commencing run for Conv12
+Generating traces and bw numbers
+Average utilization : 	6.000042994407953 %
+Cycles for compute  : 	45065 cycles
+DRAM IFMAP Read BW  : 	3.0805500982318272 Bytes/cycle
+DRAM Filter Read BW : 	0.06286836935166994 Bytes/cycle
+DRAM OFMAP Write BW : 	0.002593934184675835 Bytes/cycle
+
+Commencing run for Conv13
+Generating traces and bw numbers
+Average utilization : 	94.21496811362206 %
+Cycles for compute  : 	106511 cycles
+DRAM IFMAP Read BW  : 	0.3872650793038243 Bytes/cycle
+DRAM Filter Read BW : 	1.0116312275691737 Bytes/cycle
+DRAM OFMAP Write BW : 	0.7745301586076486 Bytes/cycle
+
+Commencing run for Conv14
+Generating traces and bw numbers
+Average utilization : 	5.907267446295618 %
+Cycles for compute  : 	65545 cycles
+DRAM IFMAP Read BW  : 	1.3275303268821188 Bytes/cycle
+DRAM Filter Read BW : 	0.10836982260262193 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0016006773113912663 Bytes/cycle
+
+Commencing run for Conv15
+Generating traces and bw numbers
+Average utilization : 	94.22286811583656 %
+Cycles for compute  : 	213007 cycles
+DRAM IFMAP Read BW  : 	0.4027483464971425 Bytes/cycle
+DRAM Filter Read BW : 	1.0520773132986578 Bytes/cycle
+DRAM OFMAP Write BW : 	0.4027483464971425 Bytes/cycle
+
+Commencing run for Conv16
+Generating traces and bw numbers
+Average utilization : 	5.907267446295618 %
+Cycles for compute  : 	65545 cycles
+DRAM IFMAP Read BW  : 	1.3275303268821188 Bytes/cycle
+DRAM Filter Read BW : 	0.10836982260262193 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0016006773113912663 Bytes/cycle
+
+Commencing run for Conv17
+Generating traces and bw numbers
+Average utilization : 	94.22286811583656 %
+Cycles for compute  : 	213007 cycles
+DRAM IFMAP Read BW  : 	0.4027483464971425 Bytes/cycle
+DRAM Filter Read BW : 	1.0520773132986578 Bytes/cycle
+DRAM OFMAP Write BW : 	0.4027483464971425 Bytes/cycle
+
+Commencing run for Conv18
+Generating traces and bw numbers
+Average utilization : 	5.907267446295618 %
+Cycles for compute  : 	65545 cycles
+DRAM IFMAP Read BW  : 	1.3275303268821188 Bytes/cycle
+DRAM Filter Read BW : 	0.10836982260262193 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0016006773113912663 Bytes/cycle
+
+Commencing run for Conv19
+Generating traces and bw numbers
+Average utilization : 	94.22286811583656 %
+Cycles for compute  : 	213007 cycles
+DRAM IFMAP Read BW  : 	0.4027483464971425 Bytes/cycle
+DRAM Filter Read BW : 	1.0520773132986578 Bytes/cycle
+DRAM OFMAP Write BW : 	0.4027483464971425 Bytes/cycle
+
+Commencing run for Conv20
+Generating traces and bw numbers
+Average utilization : 	5.907267446295618 %
+Cycles for compute  : 	65545 cycles
+DRAM IFMAP Read BW  : 	1.3275303268821188 Bytes/cycle
+DRAM Filter Read BW : 	0.10836982260262193 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0016006773113912663 Bytes/cycle
+
+Commencing run for Conv21
+Generating traces and bw numbers
+Average utilization : 	94.22286811583656 %
+Cycles for compute  : 	213007 cycles
+DRAM IFMAP Read BW  : 	0.4027483464971425 Bytes/cycle
+DRAM Filter Read BW : 	1.0520773132986578 Bytes/cycle
+DRAM OFMAP Write BW : 	0.4027483464971425 Bytes/cycle
+
+Commencing run for Conv22
+Generating traces and bw numbers
+Average utilization : 	5.907267446295618 %
+Cycles for compute  : 	65545 cycles
+DRAM IFMAP Read BW  : 	1.3275303268821188 Bytes/cycle
+DRAM Filter Read BW : 	0.10836982260262193 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0016006773113912663 Bytes/cycle
+
+Commencing run for Conv23
+Generating traces and bw numbers
+Average utilization : 	94.22286811583656 %
+Cycles for compute  : 	213007 cycles
+DRAM IFMAP Read BW  : 	0.4027483464971425 Bytes/cycle
+DRAM Filter Read BW : 	1.0520773132986578 Bytes/cycle
+DRAM OFMAP Write BW : 	0.4027483464971425 Bytes/cycle
+
+Commencing run for Conv24
+Generating traces and bw numbers
+Average utilization : 	4.686832509459295 %
+Cycles for compute  : 	24580 cycles
+DRAM IFMAP Read BW  : 	2.8987550189202462 Bytes/cycle
+DRAM Filter Read BW : 	0.23663306276899967 Bytes/cycle
+DRAM OFMAP Write BW : 	0.0010398913891215807 Bytes/cycle
+
+Commencing run for Conv25
+Generating traces and bw numbers
+Average utilization : 	76.55171279379344 %
+Cycles for compute  : 	131088 cycles
+DRAM IFMAP Read BW  : 	0.13306883639025321 Bytes/cycle
+DRAM Filter Read BW : 	2.7808671115024346 Bytes/cycle
+DRAM OFMAP Write BW : 	0.26613767278050643 Bytes/cycle
+
+Commencing run for Conv26
+Generating traces and bw numbers
+Average utilization : 	1.5620709251235736 %
+Cycles for compute  : 	16388 cycles
+DRAM IFMAP Read BW  : 	1.8363138231631382 Bytes/cycle
+DRAM Filter Read BW : 	0.8161394769613948 Bytes/cycle
+DRAM OFMAP Write BW : 	0.00019925280199252802 Bytes/cycle
+
+Commencing run for Conv27
+Generating traces and bw numbers
+Average utilization : 	76.55710608828993 %
+Cycles for compute  : 	262160 cycles
+DRAM IFMAP Read BW  : 	0.13486903113954332 Bytes/cycle
+DRAM Filter Read BW : 	2.8184875078957625 Bytes/cycle
+DRAM OFMAP Write BW : 	0.13486903113954332 Bytes/cycle
+************ SCALE SIM Run Complete ****************
